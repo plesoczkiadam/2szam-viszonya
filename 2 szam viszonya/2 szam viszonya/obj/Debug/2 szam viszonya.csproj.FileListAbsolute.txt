@@ -1,0 +1,14 @@
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.exe.config
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.exe
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.pdb
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.csprojAssemblyReference.cache
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.exe
+D:\Users\Ádám\Desktop\C#\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.pdb
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.exe.config
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.exe
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\bin\Debug\2 szam viszonya.pdb
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.csproj.AssemblyReference.cache
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.csproj.SuggestedBindingRedirects.cache
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.csproj.CoreCompileInputs.cache
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.exe
+D:\Távoktatás\C#\előző\2 szam viszonya\2 szam viszonya\obj\Debug\2 szam viszonya.pdb
