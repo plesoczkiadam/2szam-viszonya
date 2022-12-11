@@ -1,0 +1,1 @@
+# 2szam-viszonya
